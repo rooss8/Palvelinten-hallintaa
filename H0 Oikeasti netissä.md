@@ -12,6 +12,7 @@ x) Harjoitus 5 nimekäs:
 
 -Tekstissä kerrotaan domainin ja alidomainin luomisesta maksullisessa palvelussa nimeltä maincheap
 
+
 a)	Olen asentanut Linux palvelimet kurssilla Debian 13 koneelleni.
 
 f)  

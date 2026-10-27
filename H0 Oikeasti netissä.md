@@ -17,6 +17,7 @@ x) Harjoitus 5 nimekäs:
 -Namecheapiin tulee rekisteröityä ja kortin tiedot syötettyä voi aloittaa domainin luominen
 
 
+
 a)	Olen asentanut Linux palvelimet kurssilla Debian 13 koneelleni.
 
 f)  

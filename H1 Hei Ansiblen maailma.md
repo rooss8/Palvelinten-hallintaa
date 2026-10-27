@@ -20,7 +20,7 @@ Hello Ansible
 
 -Teksti on ansible tutorial, jossa asennetaan Ansible, kirjoitetaan hosts.ini-tiedostoon hallittavat koneet ja testataan SSH-yhteys, lopuksi site.yml ja koneiden roolit ja hello-rooli
 
--Lisäksi tekstissä opastetaan yleistenvirheiden kanssa esim. sudon puuttuminen
+-Lisäksi tekstissä opastetaan yleisten virheiden kanssa esim. sudon puuttuminen
 
 
 

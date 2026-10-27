@@ -1,14 +1,17 @@
 # H0 Oikeasti netissä
 
 x) H4 tehtävät:
+
 -Moduulissa oli oman pilvipalvelimen vuokraamisesta UpCloudissa
 
 x) Harjoitus 5 nimekäs:
+
 -Tekstissä kerrotaan domainin ja alidomainin luomisesta maksullisessa palvelussa nimeltä maincheap
 
 a)	Olen asentanut Linux palvelimet kurssilla Debian 13 koneelleni.
 
 f)  
+
 
 <img width="928" height="201" alt="image" src="https://github.com/user-attachments/assets/6786659f-d32c-4beb-a4d0-dc82a78e517e" />
 

@@ -2,7 +2,7 @@
 
 x) H4 tehtävät:
 
--Moduulissa oli oman pilvipalvelimen vuokraamisesta UpCloudissa
+-Tekstissä oli oman pilvipalvelimen vuokraamisesta UpCloudissa
 
 -Pilvipalvelua vuokratessa pitää valita sijainti. Kannattaa valita Suomi tai Eurooppa, jotta yhteys on varmasti nopea.
 

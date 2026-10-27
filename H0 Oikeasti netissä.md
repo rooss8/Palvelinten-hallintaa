@@ -6,6 +6,8 @@ x) H4 tehtävät:
 
 -Pilvipalvelua vuokratessa pitää valita sijainti. Kannattaa valita Suomi tai Eurooppa, jotta yhteys on varmasti nopea.
 
+-Jos ei tarvitse paljon muistia, voi ostaa halvimman mahdollisen. Lisämuistia voi aina ostaa lisää.
+
 x) Harjoitus 5 nimekäs:
 
 -Tekstissä kerrotaan domainin ja alidomainin luomisesta maksullisessa palvelussa nimeltä maincheap

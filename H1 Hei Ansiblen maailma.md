@@ -8,7 +8,7 @@ x) SSH public key - Login without password
 
 -Pitää ladata SSH -server ja syöttää tietyt komennot
 
-(Karvinen, 2026a)
+(Karvinen, 2026b)
 
 
 Hello Ansible
@@ -22,6 +22,7 @@ Hello Ansible
 
 -Lisäksi tekstissä opastetaan yleisten virheiden kanssa esim. sudon puuttuminen
 
+(Karvinen 2026a)
 
 
 

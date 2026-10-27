@@ -10,6 +10,14 @@ x) SSH public key - Login without password
 
 (Karvinen, 2026a)
 
+Hello Ansible
+
+-Teksti on ansible tutorial
+
+-Ansible toimii configuration mangement työkaluna
+
+-Se toimii SSH:n kautta
+
 
 
 a) Latasin debianin aiemmalla kurssilla.

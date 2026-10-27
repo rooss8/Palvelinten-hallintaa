@@ -48,4 +48,4 @@ Niemi 2025: H4 Tehtävät. Luettavissa: https://github.com/AONCODES/linux-course
 
 Partanen 2025: Harjoitus 5: Nimekäs a) Nimi. Luettavissa: https://partanennn.github.io/linux-servers/practices/fifth-week.html. Luettu 26.10.2026
 
-UpCloud. s.a. Luettavissa: https://upcloud.com/. Luettu: 27.10.2026.
+UpCloud. s.a. Luettavissa: https://upcloud.com/. Luettu: 26.10.2026.

@@ -62,7 +62,10 @@ Siinä on tehtävän lopputulos.
 
 ## Lähteet:
 
+
 Karvinen (2026a) Hello Ansible. Luettavissa: https://terokarvinen.com/hello-ansible/ Luettu: 27.10.2026.
+
+
 Karvinen (2026b) SSH public key - Login without password. Luettavissa: https://terokarvinen.com/ssh-public-key-login-without-password/#automatic-login-with-ssh-public-key Luettu: 27.10.2026.
 
 

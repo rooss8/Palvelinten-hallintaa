@@ -39,3 +39,13 @@ Testasin pingata host addressin. Se näyttäisi toimivan.
 
  
 Tässä sivu jonka sitten tein ja se on avattuna selaimessa.
+
+
+## Lähteet
+Heinonen 2026. How to Install Linux to Virtualbox? Luettavissa: https://github.com/johannaheinonen/johanna-test-repo/blob/main/module_1.md. Luettu: 26.10.2026
+
+Niemi 2025: H4 Tehtävät. Luettavissa: https://github.com/AONCODES/linux-course/blob/main/h4.md. Luettu 26.10.2026
+
+Partanen 2025: Harjoitus 5: Nimekäs a) Nimi. Luettavissa: https://partanennn.github.io/linux-servers/practices/fifth-week.html. Luettu 26.10.2026
+
+UpCloud. s.a. Luettavissa: https://upcloud.com/. Luettu: 27.10.2026.

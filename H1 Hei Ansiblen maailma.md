@@ -4,19 +4,24 @@
 
 x) SSH public key - Login without password
 
--Julkinen avain helpottaa työskentelyä. Ei tarvitse syötää salasanaa ennen jokaista komentoa.
+-Julkinen avain helpottaa työskentelyä. Se kopioidaan kohdekoneelle komennolla ssh-copy-id. Sen jälkeen kirjautuminen onnistuu ilman salasanaa.
 
 -Ensin pitää ladata SSH -server ja syöttää tietyt komennot
 
 (Karvinen, 2026a)
 
+
 Hello Ansible
 
--Teksti on ansible tutorial
 
 -Ansible toimii configuration mangement työkaluna
 
 -Se toimii SSH:n kautta
+
+-Teksti on ansible tutorial, jossa asennetaan Ansible, kirjoitetaan hosts.ini-tiedostoon hallittavat koneet ja testataan SSH-yhteys, lopuksi site.yml ja koneiden roolit ja hello-rooli
+
+-Lisäksi tekstissä opastetaan yleistenvirheiden kanssa esim. sudon puuttuminen
+
 
 
 

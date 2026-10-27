@@ -20,6 +20,7 @@ x) Harjoitus 5 nimekäs:
 
 
 
+
 a)	Olen asentanut Linux palvelimet kurssilla Debian 13 koneelleni.
 
 f)  

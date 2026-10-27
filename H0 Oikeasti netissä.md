@@ -16,6 +16,8 @@ x) Harjoitus 5 nimekäs:
 
 -Namecheapiin tulee rekisteröityä ja kortin tiedot syötettyä voi aloittaa domainin luominen
 
+-Namecheapilt löytyy ohjeet, miten luodaan alidomain
+
 
 
 a)	Olen asentanut Linux palvelimet kurssilla Debian 13 koneelleni.

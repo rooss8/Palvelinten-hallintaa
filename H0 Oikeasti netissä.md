@@ -12,6 +12,10 @@ x) Harjoitus 5 nimekäs:
 
 -Tekstissä kerrotaan domainin ja alidomainin luomisesta maksullisessa palvelussa nimeltä maincheap
 
+-Virtuaalikoneelle tulee hankkia oman domain
+
+-Namecheapiin tulee rekisteröityä ja kortin tiedot syötettyä voi aloittaa domainin luominen
+
 
 a)	Olen asentanut Linux palvelimet kurssilla Debian 13 koneelleni.
 

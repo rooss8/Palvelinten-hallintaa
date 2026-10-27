@@ -1,7 +1,7 @@
 # H0 Oikeasti netissä
 
 x) H4 tehtävät:
-- Moduulissa oli oman pilvipalvelimen vuokraamisesta UpCloudissa
+-Moduulissa oli oman pilvipalvelimen vuokraamisesta UpCloudissa
 
 x) Harjoitus 5 nimekäs:
 -Tekstissä kerrotaan domainin ja alidomainin luomisesta maksullisessa palvelussa nimeltä maincheap

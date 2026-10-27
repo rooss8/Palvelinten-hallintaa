@@ -4,6 +4,7 @@
 a) Latasin debianin aiemmalla kurssilla.
 
 b) Tein tehtävät Linuxilla virtuaaliboxissa.
+
  <img width="748" height="419" alt="image" src="https://github.com/user-attachments/assets/616e3a5c-508b-49ab-80cb-3725da804acb" />
 
 SSH toimii niin kuin pitääkin localhostilla.

@@ -1,6 +1,17 @@
 
 # H1 Hei ansiblen maailma
 
+
+x) SSH public key - Login without password
+
+-Julkinen avain helpottaa työskentelyä. Ei tarvitse syötää salasanaa ennen jokaista komentoa.
+
+-Ensin pitää ladata SSH -server ja syöttää tietyt komennot
+
+(Karvinen, 2026a)
+
+
+
 a) Latasin debianin aiemmalla kurssilla.
 
 b) Tein tehtävät Linuxilla virtuaaliboxissa.
@@ -43,8 +54,8 @@ Siinä on tehtävän lopputulos.
 
 ## Lähteet:
 
-TeroKarvinen.com s.a. Hello Ansible. Luettavissa: https://terokarvinen.com/hello-ansible/ Luettu: 27.10.2026.
-TeroKarvinen.com s.a. SSH public key - Login without password. Luettavissa: https://terokarvinen.com/ssh-public-key-login-without-password/#automatic-login-with-ssh-public-key Luettu: 27.10.2026.
+Karvinen (2026a) Hello Ansible. Luettavissa: https://terokarvinen.com/hello-ansible/ Luettu: 27.10.2026.
+Karvinen (2026b) SSH public key - Login without password. Luettavissa: https://terokarvinen.com/ssh-public-key-login-without-password/#automatic-login-with-ssh-public-key Luettu: 27.10.2026.
 
 
 

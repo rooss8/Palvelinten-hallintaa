@@ -29,7 +29,9 @@ Jossain vaiheessa eksyin tehtävässä väärään kohtaan ja tuli sen vuoksi er
 [defaults]
 inventory = hosts.ini
 , jotta ei tarvitse joka kerta ansibleen kirjoittaa "-i hosts.ini" (TeroKarvinen.com s.a.).
+
 Löysin oikean kohdan ja pääsin jatkamaan siitä.
+
  <img width="830" height="173" alt="image" src="https://github.com/user-attachments/assets/c9dd51c9-96de-4a3f-9665-5ee883c5f35e" />
 
 <img width="829" height="175" alt="image" src="https://github.com/user-attachments/assets/9103372a-c380-48d4-aafa-4ff833ae593c" />

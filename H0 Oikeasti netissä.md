@@ -6,7 +6,8 @@ x) H4 tehtävät:
 
 -Pilvipalvelua vuokratessa pitää valita sijainti. Kannattaa valita Suomi tai Eurooppa, jotta yhteys on varmasti nopea.
 
--Jos ei tarvitse paljon muistia, voi ostaa halvimman mahdollisen. Lisämuistia voi aina ostaa lisää. (Niemi 2025)
+-Jos ei tarvitse paljon muistia, voi ostaa halvimman mahdollisen. Lisämuistia voi aina ostaa lisää. 
+(Niemi 2025)
 
 x) Harjoitus 5 nimekäs:
 
@@ -16,7 +17,8 @@ x) Harjoitus 5 nimekäs:
 
 -Namecheapiin tulee rekisteröityä ja kortin tiedot syötettyä voi aloittaa domainin luominen
 
--Namecheapilt löytyy ohjeet, miten luodaan alidomain (Partanen 2025)
+-Namecheapilt löytyy ohjeet, miten luodaan alidomain 
+(Partanen 2025)
 
 
 

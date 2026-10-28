@@ -31,6 +31,7 @@ Hello Ansible
 
 
 a) Debianin asennus
+
 Latasin Debian 13 aiemmalla kurssilla.
 
 

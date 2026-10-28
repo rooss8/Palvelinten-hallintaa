@@ -30,10 +30,13 @@ Hello Ansible
 
 
 
-a) Latasin Debian 13 aiemmalla kurssilla.
+a) Debianin asennus
+Latasin Debian 13 aiemmalla kurssilla.
 
 
-b) Tein tehtävät Linuxilla virtuaaliboxissa.
+b) Sshecrets
+
+Tein tehtävät Linuxilla virtuaaliboxissa.
 
  <img width="748" height="419" alt="image" src="https://github.com/user-attachments/assets/616e3a5c-508b-49ab-80cb-3725da804acb" />
 
@@ -41,7 +44,7 @@ SSH toimii niin kuin pitääkin localhostilla.
 
 
 
-c)
+c) Pubkey
 
  <img width="709" height="270" alt="image" src="https://github.com/user-attachments/assets/0554ffa4-48b4-44d5-9de4-793916e11990" />
 
@@ -49,7 +52,9 @@ Tein SSH avaimen. SSH avain löytyy, kun sitä kutsuu.
 
 
 
-d) Tein hei maailman ansiblella.
+d) Hei Ansible
+
+Tein hei maailman ansiblella.
 
 <img width="697" height="257" alt="image" src="https://github.com/user-attachments/assets/c20446f3-f872-46b1-9f17-c2da6d126494" />
 

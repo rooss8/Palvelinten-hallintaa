@@ -57,7 +57,7 @@ Jossain vaiheessa eksyin tehtävässä väärään kohtaan ja tuli sen vuoksi er
 
 inventory = hosts.ini
 
-, jotta ei tarvitse joka kerta ansibleen kirjoittaa "-i hosts.ini" (TeroKarvinen.com s.a.).
+, jotta ei tarvitse joka kerta ansibleen kirjoittaa "-i hosts.ini" (Karvinen 2026a).
 
 Löysin oikean kohdan ja pääsin jatkamaan siitä.
 

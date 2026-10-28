@@ -6,7 +6,7 @@ x) SSH public key - Login without password
 
 -Julkinen avain helpottaa työskentelyä. Se kopioidaan kohdekoneelle komennolla ssh-copy-id. Sen jälkeen kirjautuminen onnistuu ilman salasanaa.
 
--Pitää ladata SSH -server ja syöttää tietyt komennot
+-Pitää ladata SSH -server ja syöttää tietyt komennot, jotta saa SSH keyn toimimaan
 
 (Karvinen, 2026b)
 

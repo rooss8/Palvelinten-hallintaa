@@ -26,7 +26,7 @@ Hello Ansible
 
 
 
-a) Latasin debianin aiemmalla kurssilla.
+a) Latasin Debian 13 aiemmalla kurssilla.
 
 b) Tein tehtävät Linuxilla virtuaaliboxissa.
 

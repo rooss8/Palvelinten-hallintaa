@@ -19,7 +19,12 @@ Hello Ansible
 
 -Se toimii SSH:n kautta
 
--Teksti on ansible tutorial, jossa asennetaan Ansible, kirjoitetaan hosts.ini-tiedostoon hallittavat koneet ja testataan SSH-yhteys, lopuksi site.yml ja koneiden roolit ja hello-rooli
+-Teksti on ansible tutorial, jossa asennetaan Ansible
+<img width="568" height="70" alt="image" src="https://github.com/user-attachments/assets/5179c2fe-045c-47a6-af17-609e89ec1a98" />
+
+kirjoitetaan hosts.ini-tiedostoon hallittavat koneet ja testataan SSH-yhteys,
+
+lopuksi site.yml ja koneiden roolit ja hello-rooli
 
 -Lisäksi tekstissä opastetaan yleisten virheiden kanssa esim. sudon puuttuminen
 

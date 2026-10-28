@@ -28,6 +28,8 @@ Hello Ansible
 
 
 
+
+
 a) Latasin Debian 13 aiemmalla kurssilla.
 
 
@@ -38,11 +40,13 @@ b) Tein tehtävät Linuxilla virtuaaliboxissa.
 SSH toimii niin kuin pitääkin localhostilla.
 
 
+
 c)
 
  <img width="709" height="270" alt="image" src="https://github.com/user-attachments/assets/0554ffa4-48b4-44d5-9de4-793916e11990" />
 
 Tein SSH avaimen. SSH avain löytyy, kun sitä kutsuu.
+
 
 
 d) Tein hei maailman ansiblella.

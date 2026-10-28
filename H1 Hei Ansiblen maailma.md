@@ -54,7 +54,9 @@ Jossain vaiheessa eksyin tehtävässä väärään kohtaan ja tuli sen vuoksi er
 
 
 [defaults]
+
 inventory = hosts.ini
+
 , jotta ei tarvitse joka kerta ansibleen kirjoittaa "-i hosts.ini" (TeroKarvinen.com s.a.).
 
 Löysin oikean kohdan ja pääsin jatkamaan siitä.

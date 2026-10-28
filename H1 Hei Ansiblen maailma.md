@@ -49,6 +49,7 @@ d) Tein hei maailman ansiblella.
 
 <img width="504" height="57" alt="image" src="https://github.com/user-attachments/assets/3517b7dd-8141-48c9-ab10-161753b88914" />
 
+
  
 Jossain vaiheessa eksyin tehtävässä väärään kohtaan ja tuli sen vuoksi error. Sen myötä lisäsin myöhemmässä kohdassa olevan defaultsin jo vähän edeltä. Lisäsin
 

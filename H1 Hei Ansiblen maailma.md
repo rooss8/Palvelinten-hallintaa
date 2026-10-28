@@ -51,6 +51,8 @@ d) Tein hei maailman ansiblella.
 
  
 Jossain vaiheessa eksyin tehtävässä väärään kohtaan ja tuli sen vuoksi error. Sen myötä lisäsin myöhemmässä kohdassa olevan defaultsin jo vähän edeltä. Lisäsin
+
+
 [defaults]
 inventory = hosts.ini
 , jotta ei tarvitse joka kerta ansibleen kirjoittaa "-i hosts.ini" (TeroKarvinen.com s.a.).

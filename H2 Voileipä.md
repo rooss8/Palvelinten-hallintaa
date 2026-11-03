@@ -34,6 +34,9 @@ Kuva 4.
 
 Munroe 2006: xkcd 149: Sandwitch
 
+-Sivusto kertookin webkomiikkaa romanssista, sarkasmista, matikasta ja kielestä
+-Sandwitch vitsi kertoo sudo komennosta, ihminen ei tee voileipää, sudo tekee
+
 
 Karvinen 2026: Passwordless Sudo with Ansible
 

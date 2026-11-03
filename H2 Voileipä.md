@@ -7,6 +7,7 @@ Karvinen 2026a: Sudo without password
 -Miten  hyväksyä SUDO ilman salasanaa?
 
 -Luo uusi käyttäjä
+
 <img width="227" height="54" alt="image" src="https://github.com/user-attachments/assets/92e4885b-248d-480a-bd73-35f88929502c" />
 
 Kuva (Karvinen 2026a)

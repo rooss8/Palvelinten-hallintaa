@@ -10,12 +10,25 @@ Karvinen 2026a: Sudo without password
 
 <img width="227" height="54" alt="image" src="https://github.com/user-attachments/assets/92e4885b-248d-480a-bd73-35f88929502c" />
 
-Kuva (Karvinen 2026a)
+Kuva 1 (Karvinen 2026a)
 
 -Rikkinäinnen Sudo vakuutus: avaa uusi ikkuna ssh kohde koneella
 
 -Jos sudo menee rikki sen voi mahdollisesti korjata seuraavalla komennolla
 <img width="343" height="28" alt="image" src="https://github.com/user-attachments/assets/f466147d-94ea-4334-a6c9-25e2fc5a6a6d" />
+
+
+
+-Uusi sudoaajien sääntö: sääntö, joka mahdollistaa sudoless käyttäjien käyttää sudoa ilman salasanaa 
+
+<img width="319" height="36" alt="image" src="https://github.com/user-attachments/assets/ad3f11c5-f7d0-400c-af70-06cc2e10dcea" />
+
+Kuva 3.
+
+<img width="266" height="34" alt="image" src="https://github.com/user-attachments/assets/cae06ced-7b4e-4fc6-8bf9-b3d28753c9c6" />
+
+Kuva 4.
+
 
 
 

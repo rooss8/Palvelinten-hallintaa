@@ -2,7 +2,20 @@
 
 ## x) Lue ja tiivistä
 
-Karvinen 2026: Sudo without password
+Karvinen 2026a: Sudo without password
+
+-Miten  hyväksyä SUDO ilman salasanaa?
+
+-Luo uusi käyttäjä
+<img width="227" height="54" alt="image" src="https://github.com/user-attachments/assets/92e4885b-248d-480a-bd73-35f88929502c" />
+
+Kuva (Karvinen 2026a)
+
+-Rikkinäinnen Sudo vakuutus: avaa uusi ikkuna ssh kohde koneella
+
+-Jos sudo menee rikki sen voi mahdollisesti korjata seuraavalla komennolla
+<img width="343" height="28" alt="image" src="https://github.com/user-attachments/assets/f466147d-94ea-4334-a6c9-25e2fc5a6a6d" />
+
 
 
 Munroe 2006: xkcd 149: Sandwitch

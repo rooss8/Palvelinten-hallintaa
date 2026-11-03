@@ -18,7 +18,6 @@ Kuva 1 (Karvinen 2026a)
 <img width="343" height="28" alt="image" src="https://github.com/user-attachments/assets/f466147d-94ea-4334-a6c9-25e2fc5a6a6d" />
 
 
-
 -Uusi sudoaajien sääntö: sääntö, joka mahdollistaa sudoless käyttäjien käyttää sudoa ilman salasanaa 
 
 <img width="319" height="36" alt="image" src="https://github.com/user-attachments/assets/ad3f11c5-f7d0-400c-af70-06cc2e10dcea" />
@@ -30,6 +29,7 @@ Kuva 3.
 Kuva 4.
 
 
+-Uudet ryhmät toimivat vasta kirjauduttua ulos koneelta ja takaisin
 
 
 Munroe 2006: xkcd 149: Sandwitch

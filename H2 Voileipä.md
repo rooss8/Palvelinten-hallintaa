@@ -35,19 +35,31 @@ Kuva 4.
 ## Munroe 2006: xkcd 149: Sandwitch
 
 -Sivusto kertookin webkomiikkaa romanssista, sarkasmista, matikasta ja kielestä
--Sandwitch vitsi kertoo sudo komennosta, ihminen ei tee voileipää, sudo tekee
+-Sandwitch vitsi kertoo sudo komennosta, ihminen ei tee voileipää pyydettäessä, sudo tekee
 
 
 ## Karvinen 2026: Passwordless Sudo with Ansible
 
-Ansiblen sisäänrakennettu dokumentaatio ansible-doc -kommennolla.
-Kustakin vain
-Johdantokappale (Usein MODULE alla, päättyy OPTIONS alkuun)
-Nimetyt optiot selityksineen
-Esimerkeistä (EXAMPLES) jokin helppo ja keskeinen esimerkki
-'ansible-doc copy': content, dest, src; owner, group, mode;
-'ansible-doc apt': name, state, update_cache.
-'ansible-doc file': path, recurse, src, state. owner, group, mode;
-'ansible-doc user': name; create_home, comment, groups, shell, state, system.
-'ansible-doc authorized_key': user, key.
+- Uusi käyttäjä sudottomaan ryhmään
+  
+- Edellytyksenä on toimiva Hello Ansible ja sudo without password
+
+- Pitäisi saada toimimaan niin, että ei vaadi sudo salasanaa
+  
+- Kun saa toimimaan manuaalisesti, voi kopioida muihin tiedostoihin
+  
+- Mihin kaikkialle se tulee kopioida ja tuleeko jo tässä tehtävässä?
+
+
+
+
+## Lähteet
+
+Karvinen T 2026a. Sudo without password. Haettu osoitteesta: https://terokarvinen.com/passwordless-sudo/ Luettu: 3.11.2026
+
+
+Munroe 2026. Sandwitch. Haettu osoitteesta: https://xkcd.com/149/ Luettu 3.11.2026
+
+
+Karvinen T 2026b. Passwordless Sudo with Ansible. Haettu  osoitteesta: https://terokarvinen.com/passwordless-sudo-with-ansible/ Luettu 3.11.2026
 

@@ -51,7 +51,7 @@ Karvinen 2026: Passwordless Sudo with Ansible
 - Mihin kaikkialle se tulee kopioida ja tuleeko jo tässä tehtävässä?
 
 
-## Sudoless password
+## a) Sudoless password
 
 <img width="352" height="148" alt="image" src="https://github.com/user-attachments/assets/1fd8fe16-a5db-42c6-9cd6-923866de2107" />
 
@@ -67,9 +67,11 @@ sudo groupadd sudoless
 
 sudo adduser antero sudoless
 
-Sitten ajoin roosavirtualboxissa komennnon sudo -i. Ja siirryin takaisin ansibleen terminaaliin. Seruaavaksi avasin tekstieditorin komennolla sudo visudo /etc/sudoers.d/sudoless. Kirjoitin sinne säännön %sudoless ALL = (ALL) NOPASSWD: ALL
+Sitten ajoin roosa@roosavirtualboxissa komennnon sudo -i. Ja siirryin takaisin ansibleen terminaaliin. Seruaavaksi avasin tekstieditorin komennolla sudo visudo /etc/sudoers.d/sudoless. Kirjoitin sinne säännön %sudoless ALL = (ALL) NOPASSWD: ALL
 
-Tein sen jälkeen testaukset ja anteroon kirjautuessa pyysi silti salasanaa.
+<img width="314" height="35" alt="image" src="https://github.com/user-attachments/assets/b5822f55-49aa-4d23-9780-0cbebd055932" />
+
+Tein sen jälkeen testaukset. Luulin, että kun kirjadun anterosta ulos sen ei pidä kysyä salasanaa, mutta se saattoikin tarkoittaa sitä, että kun laitan komennon anterolla, se ei kysy salasanaa.
 
 
 

@@ -106,6 +106,10 @@ First run -kohdassa en tiennyt missä ne komennot piti ajaa. Oliko väliä onko 
 
 ansible-playbook site.yml --ask-become-password
 
+<img width="363" height="80" alt="image" src="https://github.com/user-attachments/assets/aadfa335-0726-4e4e-b99f-2a79c55cb53e" />
+
+Palasin vielä tähän virheeseen. Se sanoo että roolia Hello ei löydy. Ja sitä ei löydy, koska poistin sen tehtävää tehdessäni, koska mallipuussa oli roolit world ja antero. Pitää selvitellä asiaa, mut en nyt tähän ehtinyt.
+
 
 ## Lähteet
 

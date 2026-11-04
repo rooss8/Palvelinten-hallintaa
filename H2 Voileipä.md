@@ -80,8 +80,6 @@ Sitten ajoin toisella terminaalilla roosa@roosavirtualboxissa komennnon sudo -i.
 Tein sen jälkeen testaukset. Luulin, että kun kirjadun anterosta ulos sen ei pidä kysyä salasanaa, mutta se saattoikin tarkoittaa sitä, että kun laitan komennon anterolla, se ei kysy salasanaa.
 
 
-## c) Package. Asenna kaksi pakettia ansiblella d) File. Ansiblella määrittelyä.
-
 
 <img width="223" height="125" alt="image" src="https://github.com/user-attachments/assets/e5e97af7-c72a-4145-8bf0-eca1338ee2b5" />
 
@@ -109,6 +107,10 @@ ansible-playbook site.yml --ask-become-password
 <img width="363" height="80" alt="image" src="https://github.com/user-attachments/assets/aadfa335-0726-4e4e-b99f-2a79c55cb53e" />
 
 Palasin vielä tähän virheeseen. Se sanoo että roolia Hello ei löydy. Ja sitä ei löydy, koska poistin sen tehtävää tehdessäni, koska mallipuussa oli roolit world ja antero. Pitää selvitellä asiaa, mut en nyt tähän ehtinyt.
+
+
+
+## c) Package. Asenna kaksi pakettia ansiblella d) File. Ansiblella määrittelyä.
 
 
 ## Lähteet

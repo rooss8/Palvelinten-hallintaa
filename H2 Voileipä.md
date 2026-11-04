@@ -53,9 +53,8 @@ Karvinen 2026: Passwordless Sudo with Ansible
 
 ## a) Sudoless password
 
-<img width="352" height="148" alt="image" src="https://github.com/user-attachments/assets/1fd8fe16-a5db-42c6-9cd6-923866de2107" />
 
-Tarkistin ensin tree -komennolla muistin virkistykseksi, miltä hakemisto tällä hetkellä näyttää. Sen jälkee ajoin ensimmäisen komennon ansible -tilassa virtualboxilla. Komento oli siis tuo
+Tarkistin ensin tree -komennolla muistin virkistykseksi, miltä hakemisto tällä hetkellä näyttää. Sen jälkeen ajoin ensimmäisen komennon roosa@roosavirtualboxilla. Komento oli siis tuo
 
 sudo adduser antero
 

@@ -2,7 +2,7 @@
 
 ## x) Lue ja tiivistä
 
-## Karvinen 2026a: Sudo without password
+Karvinen 2026a: Sudo without password
 
 -Miten  hyväksyä SUDO ilman salasanaa?
 
@@ -32,13 +32,13 @@ Kuva 4.
 -Uudet ryhmät toimivat vasta kirjauduttua ulos koneelta ja takaisin
 
 
-## Munroe 2006: xkcd 149: Sandwitch
+Munroe 2006: xkcd 149: Sandwitch
 
 -Sivusto kertookin webkomiikkaa romanssista, sarkasmista, matikasta ja kielestä
 -Sandwitch vitsi kertoo sudo komennosta, ihminen ei tee voileipää pyydettäessä, sudo tekee
 
 
-## Karvinen 2026: Passwordless Sudo with Ansible
+Karvinen 2026: Passwordless Sudo with Ansible
 
 - Uusi käyttäjä sudottomaan ryhmään
   

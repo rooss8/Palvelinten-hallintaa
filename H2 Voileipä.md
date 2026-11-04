@@ -69,6 +69,7 @@ sudo adduser antero sudoless
 
 Sitten ajoin roosavirtualboxissa komennnon sudo -i. Ja siirryin takaisin ansibleen terminaaliin. Seruaavaksi avasin tekstieditorin komennolla sudo visudo /etc/sudoers.d/sudoless. Kirjoitin sinne säännön %sudoless ALL = (ALL) NOPASSWD: ALL
 
+Tein sen jälkeen testaukset ja anteroon kirjautuessa pyysi silti salasanaa.
 
 
 

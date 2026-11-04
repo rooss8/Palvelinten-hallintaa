@@ -73,6 +73,9 @@ Sitten ajoin toisella terminaalilla roosa@roosavirtualboxissa komennnon sudo -i.
 Tein sen jälkeen testaukset. Luulin, että kun kirjadun anterosta ulos sen ei pidä kysyä salasanaa, mutta se saattoikin tarkoittaa sitä, että kun laitan komennon anterolla, se ei kysy salasanaa.
 
 
+## b) Sudo without password
+
+
 
 
 

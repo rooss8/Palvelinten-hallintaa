@@ -80,7 +80,7 @@ Sitten ajoin toisella terminaalilla roosa@roosavirtualboxissa komennnon sudo -i.
 Tein sen jälkeen testaukset. Luulin, että kun kirjadun anterosta ulos sen ei pidä kysyä salasanaa, mutta se saattoikin tarkoittaa sitä, että kun laitan komennon anterolla, se ei kysy salasanaa.
 
 
-## c) Package. Asenna kaksi pakettia ansiblella.
+## c) Package. Asenna kaksi pakettia ansiblella d) File. Ansiblella määrittelyä.
 
 
 <img width="223" height="125" alt="image" src="https://github.com/user-attachments/assets/e5e97af7-c72a-4145-8bf0-eca1338ee2b5" />

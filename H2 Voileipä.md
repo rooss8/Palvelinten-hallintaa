@@ -75,6 +75,9 @@ Tein sen jälkeen testaukset. Luulin, että kun kirjadun anterosta ulos sen ei p
 
 ## b) Sudo without password
 
+<img width="236" height="60" alt="image" src="https://github.com/user-attachments/assets/48b5fc7e-8925-4550-8aca-93d56bf42717" />
+
+Lisäsin site.yml sisältöä.
 
 
 

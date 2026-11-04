@@ -90,7 +90,9 @@ Treehen piti tehdä ensi vähän lisäyksiä. Siitä puuttui antero aluksi. Ja w
 
 Lisäsin site.yml sisältöä.
 
-First run -kohdassa en tiennyt missä ne komennot piti ajaa. Oliko väliä onko roosa @roosavirtualboxilla vai antero@roosavirtualboxilla. Kokeilin molemmilla anterolla sei löytänyt tiedsotoa ja roosalla tuli pitkästi tekstiä mut en löytänyt sellaista kohtaa kuin sudo need password.
+First run -kohdassa en tiennyt missä ne komennot piti ajaa. Oliko väliä onko roosa @roosavirtualboxilla vai antero@roosavirtualboxilla. Kokeilin molemmilla anterolla sei löytänyt tiedsotoa ja roosalla tuli pitkästi tekstiä mut en löytänyt sellaista kohtaa kuin sudo need password. Laitoin vikan komennon
+
+ansible-playbook site.yml --ask-become-password
 
 
 ## Lähteet

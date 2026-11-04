@@ -109,6 +109,18 @@ ansible-playbook site.yml --ask-become-password
 
 Palasin vielä tähän virheeseen. Se sanoo että roolia Hello ei löydy. Ja sitä ei löydy, koska poistin sen tehtävää tehdessäni, koska mallipuussa oli roolit world ja antero. Pitää selvitellä asiaa, mut en nyt tähän ehtinyt.
 
+EDIT 
+
+
+<img width="550" height="175" alt="image" src="https://github.com/user-attachments/assets/5e3c1e36-131d-485f-baf4-7685fa3255ba" />
+
+<img width="528" height="61" alt="image" src="https://github.com/user-attachments/assets/7d9119d7-153f-4371-a644-fe04c294f01a" />
+
+
+Sain no passwordin toimimaan lopulta. Korjasin kirjoitusvihreen roles/antero/task/site.yml :stä ja site.yml :stä roolit hello vaihdoin worldiksi.
+
+
+
 
 
 ## c) Package. Asenna kaksi pakettia ansiblella d) File. Ansiblella määrittelyä.

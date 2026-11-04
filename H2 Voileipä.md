@@ -51,6 +51,27 @@ Karvinen 2026: Passwordless Sudo with Ansible
 - Mihin kaikkialle se tulee kopioida ja tuleeko jo tässä tehtävässä?
 
 
+## Sudoless password
+
+<img width="352" height="148" alt="image" src="https://github.com/user-attachments/assets/1fd8fe16-a5db-42c6-9cd6-923866de2107" />
+
+Tarkistin ensin tree -komennolla muistin virkistykseksi, miltä hakemisto tällä hetkellä näyttää. Sen jälkee ajoin ensimmäisen komennon ansible -tilassa virtualboxilla. Komento oli siis tuo
+
+sudo adduser antero
+
+Muistaakseni noihin name, number yms. kohtiin ei tarvi näissä harjoituksissa mitään kirjoittaa, joten menin enterillä eteenpäin. sit ajoin vielä komennot 
+
+sudo groupadd sudoless
+
+&
+
+sudo adduser antero sudoless
+
+Sitten ajoin roosavirtualboxissa komennnon sudo -i. Ja siirryin takaisin ansibleen terminaaliin. Seruaavaksi avasin tekstieditorin komennolla sudo visudo /etc/sudoers.d/sudoless. Kirjoitin sinne säännön %sudoless ALL = (ALL) NOPASSWD: ALL
+
+
+
+
 
 
 ## Lähteet

@@ -66,7 +66,7 @@ sudo groupadd sudoless
 
 sudo adduser antero sudoless
 
-Sitten ajoin roosa@roosavirtualboxissa komennnon sudo -i. Ja siirryin takaisin ansibleen terminaaliin. Seruaavaksi avasin tekstieditorin komennolla sudo visudo /etc/sudoers.d/sudoless. Kirjoitin sinne säännön %sudoless ALL = (ALL) NOPASSWD: ALL
+Sitten ajoin toisella terminaalilla roosa@roosavirtualboxissa komennnon sudo -i. Ja siirryin takaisin toiseen terminaaliin. Seuraavaksi avasin tekstieditorin komennolla sudo visudo /etc/sudoers.d/sudoless. Kirjoitin sinne säännön %sudoless ALL = (ALL) NOPASSWD: ALL
 
 <img width="314" height="35" alt="image" src="https://github.com/user-attachments/assets/b5822f55-49aa-4d23-9780-0cbebd055932" />
 

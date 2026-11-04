@@ -89,7 +89,12 @@ Tein sen jälkeen testaukset. Luulin, että kun kirjadun anterosta ulos sen ei p
 Treehen piti tehdä ensi vähän lisäyksiä. Siitä puuttui antero aluksi. Ja world kansio oli hello nimellä.
 
 
+
+<img width="271" height="186" alt="image" src="https://github.com/user-attachments/assets/68b52fa5-27f6-4748-9fe0-99cb9979eec9" />
+
 Kirjoitin pitkän koodin editorilla nano roles/antero/tasks/main.yml
+Tässäkään en ollut tehdessäki varma missä se piti ajaa. Tarkistin niin olin tehnyt ansiblella.
+
 
 
 <img width="239" height="62" alt="image" src="https://github.com/user-attachments/assets/9d22ce25-dd6b-4d9d-8c4a-6eab6cadeaef" />

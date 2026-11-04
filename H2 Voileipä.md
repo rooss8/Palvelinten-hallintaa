@@ -63,11 +63,15 @@ sudo adduser antero
 
 Muistaakseni noihin name, number yms. kohtiin ei tarvi näissä harjoituksissa mitään kirjoittaa, joten menin enterillä eteenpäin. sit ajoin vielä komennot 
 
+
 sudo groupadd sudoless
 
 &
 
 sudo adduser antero sudoless
+
+
+## b) Sudo without password
 
 Sitten ajoin toisella terminaalilla roosa@roosavirtualboxissa komennnon sudo -i. Ja siirryin takaisin toiseen terminaaliin. Seuraavaksi avasin tekstieditorin komennolla sudo visudo /etc/sudoers.d/sudoless. Kirjoitin sinne säännön %sudoless ALL = (ALL) NOPASSWD: ALL
 
@@ -76,7 +80,7 @@ Sitten ajoin toisella terminaalilla roosa@roosavirtualboxissa komennnon sudo -i.
 Tein sen jälkeen testaukset. Luulin, että kun kirjadun anterosta ulos sen ei pidä kysyä salasanaa, mutta se saattoikin tarkoittaa sitä, että kun laitan komennon anterolla, se ei kysy salasanaa.
 
 
-## b) Sudo without password
+## c) Package. Asenna kaksi pakettia ansiblella.
 
 
 <img width="223" height="125" alt="image" src="https://github.com/user-attachments/assets/e5e97af7-c72a-4145-8bf0-eca1338ee2b5" />
@@ -84,7 +88,6 @@ Tein sen jälkeen testaukset. Luulin, että kun kirjadun anterosta ulos sen ei p
 
 Treehen piti tehdä ensi vähän lisäyksiä. Siitä puuttui antero aluksi. Ja world kansio oli hello nimellä.
 
-## c) Package. Asenna kaksi pakettia ansiblella.
 
 Kirjoitin pitkän koodin editorilla nano roles/antero/tasks/main.yml
 

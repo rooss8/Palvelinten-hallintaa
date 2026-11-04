@@ -95,7 +95,8 @@ Oli kirjoitusvihre aluksi, sillä kuvassa näkyy Group isolla vaikka piti olla p
 
 
 
-<img width="239" height="62" alt="image" src="https://github.com/user-attachments/assets/9d22ce25-dd6b-4d9d-8c4a-6eab6cadeaef" />
+<img width="241" height="64" alt="image" src="https://github.com/user-attachments/assets/b1161c38-9925-4201-9e1f-ca0e5fc2fef1" />
+
 
 
 Lisäsin site.yml sisältöä.

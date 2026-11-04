@@ -53,6 +53,9 @@ Karvinen 2026: Passwordless Sudo with Ansible
 
 ## a) Sudoless password
 
+<img width="239" height="128" alt="image" src="https://github.com/user-attachments/assets/642ac300-a85a-4a72-800e-5b070f94f3f6" />
+
+
 
 Tarkistin ensin tree -komennolla muistin virkistykseksi, miltä hakemisto tällä hetkellä näyttää. Sen jälkeen ajoin ensimmäisen komennon roosa@roosavirtualboxilla. Komento oli siis tuo
 
@@ -76,6 +79,12 @@ Tein sen jälkeen testaukset. Luulin, että kun kirjadun anterosta ulos sen ei p
 ## b) Sudo without password
 
 <img width="236" height="60" alt="image" src="https://github.com/user-attachments/assets/48b5fc7e-8925-4550-8aca-93d56bf42717" />
+
+Treehen piti tehdä ensi vähän lisäyksiä. Siitä puuttui antero aluksi. Ja world kansio oli hello nimellä.
+
+
+<img width="239" height="62" alt="image" src="https://github.com/user-attachments/assets/9d22ce25-dd6b-4d9d-8c4a-6eab6cadeaef" />
+
 
 Lisäsin site.yml sisältöä.
 

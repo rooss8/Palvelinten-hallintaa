@@ -32,9 +32,13 @@ Seuraavaksi handler:
 ## b) Moottorix. Asenna Nginx käsin. Weppisivun tulee näkyä palvelimen etusivulla. Sivun tulee olla tavallisen käyttäjän muokattavissa, ilman root- tai sudo-oikeuksia. (Muista sammuttaa Apache ensin.)
 
 - Sammutin apachen komennoilla sudo systemctl stop apache2 ja sudo systemctl disable apache2
-- 
-- 
+- Asennuksess oli jotain ongelmaa
+  
 ## c) Automoottorix. Automatisoi Nginx asennus Ansiblella. Ylläpitäjän osuus Ansiblella riittää, itse HTML-weppisivut voi tehdä käsin.
 
+- Tämä jäi toistaiseksi, kun asennuksen pitää onnistua ensin, jotta sitä voi käyttää 
 
 # Lähteet
+
+Karvinen 2026. Apache installed with Ansible - quick notes. Haettu osoitteesta: https://terokarvinen.com/apache-ansible/
+

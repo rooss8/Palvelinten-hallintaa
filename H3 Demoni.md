@@ -3,9 +3,9 @@
 ## x)Lue ja tiivistä.
 ## Apache installed with Ansible - quick notes
 
--Tekstissä opetetaan asentamaan Apache 2 -verkkopalvelin automaattisesti. Palvelin tarjoaa verkkosivuston osoitteessa http://localhost.Sivuja voi muokata tavallisena käyttäjänä – ilman root- tai sudo-oikeuksia.
--Asenna taustaprosessi, muokkaa asetustiedostoja ja käynnistä prosessi.
--Asetustiedostoihin tehdyt muutokset tulevat voimaan vasta, kun taustaprosessi käynnistetään uudelleen.
+- Tekstissä opetetaan asentamaan Apache 2 -verkkopalvelin automaattisesti. Palvelin tarjoaa verkkosivuston osoitteessa http://localhost.Sivuja voi muokata tavallisena käyttäjänä – ilman root- tai sudo-oikeuksia.
+- Asenna taustaprosessi, muokkaa asetustiedostoja ja käynnistä prosessi.
+- Asetustiedostoihin tehdyt muutokset tulevat voimaan vasta, kun taustaprosessi käynnistetään uudelleen.
 
 
 ## Handlers: running operations on change

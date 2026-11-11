@@ -17,6 +17,7 @@
 
 ## a) Apassi. Asenna Apache 2 käsin. Weppisivun tulee näkyä palvelimen etusivulla. Sivun tulee olla tavallisen käyttäjän muokattavissa, ilman root- tai sudo-oikeuksia.
 
+- Aloitin debianissa terminalissa laittaamalla komennon sudo apt-get install apache2. Luki, että on jo apache 2 uusin versio. Avasin sitten tiedoston tekstieditorissa komennolla sudoedit /etc/apache2/... koitin selvittää, mitä sinne piti kirjoittaa. Sit laitoin komennon sudo systemctl restart apache2 
 
 ## b) Moottorix. Asenna Nginx käsin. Weppisivun tulee näkyä palvelimen etusivulla. Sivun tulee olla tavallisen käyttäjän muokattavissa, ilman root- tai sudo-oikeuksia. (Muista sammuttaa Apache ensin.)
 

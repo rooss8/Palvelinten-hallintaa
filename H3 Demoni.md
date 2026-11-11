@@ -26,6 +26,9 @@ Seuraavaksi handler:
 <img width="265" height="70" alt="image" src="https://github.com/user-attachments/assets/c2dfc620-ff3f-4368-9012-1aeead65e03c" />
 
 
+<img width="290" height="83" alt="image" src="https://github.com/user-attachments/assets/8a58b124-f343-4df5-8004-5727b35ec9e6" />
+
+
 ## b) Moottorix. Asenna Nginx käsin. Weppisivun tulee näkyä palvelimen etusivulla. Sivun tulee olla tavallisen käyttäjän muokattavissa, ilman root- tai sudo-oikeuksia. (Muista sammuttaa Apache ensin.)
 
 

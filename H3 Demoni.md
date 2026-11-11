@@ -17,15 +17,19 @@
 
 ## a) Apassi. Asenna Apache 2 käsin. Weppisivun tulee näkyä palvelimen etusivulla. Sivun tulee olla tavallisen käyttäjän muokattavissa, ilman root- tai sudo-oikeuksia.
 
-- Aloitin debianissa terminalissa laittaamalla komennon sudo apt-get install apache2. Luki, että on jo apache 2 uusin versio. Avasin sitten tiedoston tekstieditorissa komennolla sudoedit /etc/apache2/... koitin selvittää, mitä sinne piti kirjoittaa. Sit laitoin komennon sudo systemctl restart apache2 
+- Aloitin debianissa terminalissa laittaamalla komennon sudo apt-get install apache2. Luki, että on jo apache 2 uusin versio on ladattu. Avasin sitten tiedoston tekstieditorissa komennolla sudoedit /etc/apache2/... ja muokkasin sitä. Sit laitoin komennon sudo systemctl restart apache2
+
+- <img width="366" height="221" alt="image" src="https://github.com/user-attachments/assets/2122805f-6d7d-46ed-a83f-ccd6b0e60239" />
+
+Seuraavaksi handler:
+
+<img width="265" height="70" alt="image" src="https://github.com/user-attachments/assets/c2dfc620-ff3f-4368-9012-1aeead65e03c" />
+
 
 ## b) Moottorix. Asenna Nginx käsin. Weppisivun tulee näkyä palvelimen etusivulla. Sivun tulee olla tavallisen käyttäjän muokattavissa, ilman root- tai sudo-oikeuksia. (Muista sammuttaa Apache ensin.)
 
 
 ## c) Automoottorix. Automatisoi Nginx asennus Ansiblella. Ylläpitäjän osuus Ansiblella riittää, itse HTML-weppisivut voi tehdä käsin.
-
-
-## d) Vapaaehtoinen bonus: Osiris-T. Osiris-T asentaa Wazuhin ja tarvittavat virtuaalikoneet. Voit lähettää vihamielistä verkkoliikennettä (tcpreplay), siepata sen (suricata) ja saat tulokset suoraan dashboardille (wazuh). Enemmän alpha kuin se kreikkalainen kirjain. Mutta Oskari, Nico ja Arttu ilahtuvat, jos kokeilet. Häkämies, Saario, Mukkula 2026: Osiris-T. Häkämies etal 2026: How to Install.
 
 
 # Lähteet

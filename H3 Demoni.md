@@ -34,9 +34,6 @@ Seuraavaksi handler:
 - Sammutin apachen komennoilla sudo systemctl stop apache2 ja sudo systemctl disable apache2
 - Asennuksess oli jotain ongelmaa
   
-## c) Automoottorix. Automatisoi Nginx asennus Ansiblella. Ylläpitäjän osuus Ansiblella riittää, itse HTML-weppisivut voi tehdä käsin.
-
-- Tämä jäi toistaiseksi, kun asennuksen pitää onnistua ensin, jotta sitä voi käyttää 
 
 # Lähteet
 
